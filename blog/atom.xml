@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gamemaker-websocket.github.io/blog</id>
+    <title>GMS Websocket Blog</title>
+    <updated>2015-10-25T23:29:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gamemaker-websocket.github.io/blog"/>
+    <subtitle>GMS Websocket Blog</subtitle>
+    <icon>https://gamemaker-websocket.github.io/img/logo.svg</icon>
+</feed>
